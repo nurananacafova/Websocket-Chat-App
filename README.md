@@ -6,7 +6,7 @@ This is chat app with Websocket and Apache Kafka
 
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
-3. [Join and Send Public Message](#send-public-message)
+3. [Join and Send Public Message](#join-and-send-public-message)
 4. [Send Private Message](#send-private-message)
 5. [Built With](#built-with)
 
